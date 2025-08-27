@@ -59,10 +59,10 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=TejasPanchbhai&show_icons=true&theme=radical" alt="GitHub Stats" width="47%"/>
   
-  <!-- Streak Stats -->
+  <!-- Streak Stats
   <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=TejasPanchbhai&theme=radical&hide_border=false&border_radius=10)](https://git.io/streak-stats)
 " alt="GitHub Streak" width="47%"/>
-</p>
+</p> -->
 
 <p align="center">
   <!-- Top Languages -->
